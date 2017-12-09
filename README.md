@@ -5,12 +5,12 @@ MyBlog is a blog which provides an environment for the user to post new event an
 Django + Google App Engine + Google Storage
 
 ## Functions
-1.User registration and authorization.
-2.Editing user profile and viewing other users' profile. User can uploading new image as profile image and add personal inforamtion.
-3.Posting new event with the local timestamp.
-4.Adding new comments to existed events.
-5.Events management. User can delete existed posts.
-6.Auto-refreshing using AJAX.
+* 1.User registration and authorization.
+* 2.Editing user profile and viewing other users' profile. User can uploading new image as profile image and add personal inforamtion.
+* 3.Posting new event with the local timestamp.
+* 4.Adding new comments to existed events.
+* 5.Events management. User can delete existed posts.
+* 6.Auto-refreshing using AJAX.
 
 ## Deployment
 My Deployment URL:
