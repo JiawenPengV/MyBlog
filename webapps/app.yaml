@@ -1,0 +1,15 @@
+# [START runtime]
+runtime: python
+env: flex
+entrypoint: gunicorn -b :$PORT webapps.wsgi
+
+beta_settings:
+    cloud_sql_instances: grumblr-jiawenpeng:us-east1:mydarabase
+
+runtime_config:
+  python_version: 3
+
+#[START env]
+env_variables:
+    CLOUD_STORAGE_BUCKET: new-gcs
+#[END env]

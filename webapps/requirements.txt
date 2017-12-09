@@ -1,0 +1,9 @@
+Django==1.11.7
+wheel==0.30.0
+gunicorn==19.7.1
+psycopg2==2.7.3.2
+pillow==4.3.0
+Flask==0.12.2
+google-cloud-storage
+django-storages
+boto
