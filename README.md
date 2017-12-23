@@ -47,7 +47,7 @@ login page
 register page
 ![](https://github.com/Jiawenjiang/MyBlog/raw/master/demoPics/register.png)
 main page
-![](https://github.com/Jiawenjiang/MyBlog/raw/master/demoPics/mainPage.png)
+![](https://github.com/Jiawenjiang/MyBlog/raw/master/demoPics/mainpage.png)
 profile page
 ![](https://github.com/Jiawenjiang/MyBlog/raw/master/demoPics/profile.png)
 edit profile page
