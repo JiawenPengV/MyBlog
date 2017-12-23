@@ -1,4 +1,4 @@
-#MyBlog - A place to share your life
+# MyBlog - A place to share your life
 ## Synopsis
 MyBlog is a full stack web application powered by Django. It provides a platform to let people communicate with each other and share their daily life. Registered users can post the event on the main page and they can also view followed users' posts. Users can view other users' profile and choose to follow or unfollow them. What's more, the interaction between different users is fulfilled by synchronized comments.
 
